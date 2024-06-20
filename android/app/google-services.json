@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819431085135",
+    "project_id": "beanbrewapplication",
+    "storage_bucket": "beanbrewapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819431085135:android:88ca97e65ce85d810b063a",
+        "android_client_info": {
+          "package_name": "com.example.beanbrewapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATuEoX9xxDMb7Lu1_q1qrTIFiC9F86xCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
